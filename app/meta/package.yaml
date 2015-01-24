@@ -1,4 +1,6 @@
-name: thunder
-version: theawesomeguy
+name: thunderball
+version: 1.0.5
+vendor: Michael Vogt <mvo@ubuntu.com>
 binaries:
- - baller: bin/printit
+ - name: bin/printit
+
