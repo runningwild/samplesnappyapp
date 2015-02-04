@@ -1,0 +1,4 @@
+name: thunder
+version: theawesomeguy
+binaries:
+ - baller: bin/printit
